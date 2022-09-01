@@ -1,2 +1,2 @@
-a script that prints the absolute path name of the current working directory.
-Tasks 0. Where am i
+Display the contents list of your current directory.
+Tasks 1. What's in there?
